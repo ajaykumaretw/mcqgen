@@ -3,3 +3,8 @@ Name: mcqgenerator
 Version: 0.0.1
 Author: Ajay Kumar
 Author-email: ajayetw2009@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2

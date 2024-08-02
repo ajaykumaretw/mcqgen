@@ -2,7 +2,7 @@ openai
 langchain_community
 streamlit
 python-dotenv
-PyPDF2
+pypdf2
 pandas
 logging
 -e .
