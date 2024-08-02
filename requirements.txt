@@ -4,4 +4,5 @@ streamlit
 python-dotenv
 PyPDF2
 pandas
+logging
 -e .
